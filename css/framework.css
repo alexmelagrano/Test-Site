@@ -1,0 +1,25 @@
+/*
+
+CSS Styling for the framework/layout components of this site:
+
+    - section margins
+    - grid system
+    - navbar formatting + media queries
+    - etc.
+
+*/
+
+
+/* General Formatting */
+
+nav, header {
+    height: auto;
+    width: 100vw;
+}
+
+
+/* Navigation Menu */
+
+.nav {
+    
+}
